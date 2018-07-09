@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">autocomplete</string>
+    <string-array name="foodList">
+        <item>Pav-Bhaji</item>
+        <item>Shejwan Noodles</item>
+        <item>CountryFeastPizza</item>
+        <item>Sandwitch</item>
+        <item>Pani-Puri</item>
+        <item>Burger</item>
+        <item>Dabeli</item>
+        <item>Momoj</item>
+    </string-array>
+</resources>
